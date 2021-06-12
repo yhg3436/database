@@ -1,0 +1,21 @@
+2021-06-10 15:42:23 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2021-06-10 15:42:23 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2021-06-10 15:42:23 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2021-06-10 15:42:23 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2021-06-10 15:42:23 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-06-10 15:42:23 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2021-06-10 15:42:23 0 [ERROR] Aborting
+2021-06-10 15:52:39 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2021-06-10 15:52:39 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2021-06-10 15:52:39 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2021-06-10 15:52:39 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2021-06-10 15:52:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-06-10 15:52:39 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2021-06-10 15:52:39 0 [ERROR] Aborting
+2021-06-10 16:07:33 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2021-06-10 16:07:33 0 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2021-06-10 16:07:33 0 [ERROR] Plugin 'InnoDB' init function returned error.
+2021-06-10 16:07:33 0 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2021-06-10 16:07:33 0 [Note] Plugin 'FEEDBACK' is disabled.
+2021-06-10 16:07:33 0 [ERROR] Unknown/unsupported storage engine: InnoDB
+2021-06-10 16:07:33 0 [ERROR] Aborting
